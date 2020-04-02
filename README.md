@@ -26,7 +26,7 @@ The terminal is the life and blood of any IDE, allowing for complex manipulation
 
 ## Getting Started with Reactide
 The Reactide IDE can be set up in two ways, the first is to bundle the electron app and run it as a native desktop App. The instructions are as follows:
-
+ 
 1. go to your terminal and type the following:
 ```
 git checkout 3.0-release
